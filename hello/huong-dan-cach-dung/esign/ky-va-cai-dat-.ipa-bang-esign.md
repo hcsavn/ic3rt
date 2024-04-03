@@ -33,6 +33,7 @@ layout:
 |                                                                                                                               |
 | :---------------------------------------------------------------------------------------------------------------------------: |
 | _<mark style="color:yellow;">**Thư mục Tệp sẽ hiện lên, bạn cần tìm file .ipa ứng dụng muốn cài \[Bấm chọn file đó]**</mark>_ |
+|                            _<mark style="color:red;">**Lưu ý: file trong ảnh chỉ là ví dụ**</mark>_                           |
 
 <figure><img src="../../../.gitbook/assets/IMG_0168.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
