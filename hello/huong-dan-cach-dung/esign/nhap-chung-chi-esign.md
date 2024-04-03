@@ -24,6 +24,12 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/IMG_0166 3.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
+|                                                              |
+| :----------------------------------------------------------: |
+| _<mark style="color:yellow;">**Bấm "Nhập" (Import)**</mark>_ |
+
+<figure><img src="../../../.gitbook/assets/IMG_0167 2.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
 |                                                                                                                              |
 | :--------------------------------------------------------------------------------------------------------------------------: |
 | _<mark style="color:yellow;">**Thư mục Tệp sẽ hiện lên, bạn cần tìm file zip chứng chỉ của bạn \[Bấm chọn file đó]**</mark>_ |
