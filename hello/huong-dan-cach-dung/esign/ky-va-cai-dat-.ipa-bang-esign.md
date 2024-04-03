@@ -5,12 +5,12 @@ layout:
   description:
     visible: true
   tableOfContents:
-    visible: false
+    visible: true
   outline:
-    visible: false
+    visible: true
   pagination:
     visible: true
 ---
 
-# 👨‍💻 Hướng dẫn cách dùng
+# 🇻🇳 Ký và cài đặt .ipa bằng ESign
 
