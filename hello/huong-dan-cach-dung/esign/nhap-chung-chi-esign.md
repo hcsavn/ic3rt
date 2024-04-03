@@ -30,10 +30,9 @@ layout:
 
 <figure><img src="../../../.gitbook/assets/IMG_0167 2.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
-|                                                                                                                              |
-| :--------------------------------------------------------------------------------------------------------------------------: |
-| _<mark style="color:yellow;">**Thư mục Tệp sẽ hiện lên, bạn cần tìm file zip chứng chỉ của bạn \[Bấm chọn file đó]**</mark>_ |
-|                           _<mark style="color:red;">**Lưu ý: file trong ảnh chỉ là ví dụ**</mark>_                           |
+|                                                                                                                                                                                                                                                        |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <p><em><mark style="color:yellow;"><strong>Thư mục Tệp sẽ hiện lên, bạn cần tìm file zip chứng chỉ của bạn [Bấm chọn file đó]</strong></mark></em><br><em><mark style="color:red;"><strong>Lưu ý: file trong ảnh chỉ là ví dụ</strong></mark></em></p> |
 
 <figure><img src="../../../.gitbook/assets/IMG_0168.PNG" alt="" width="375"><figcaption></figcaption></figure>
 
