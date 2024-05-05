@@ -17,7 +17,7 @@ layout:
     visible: false
 ---
 
-# 🇻🇳 Ký và cài đặt .ipa bằng ESign
+# 🇻🇳 Cách ký và cài đặt .ipa bằng ESign
 
 <table data-full-width="false"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><em><mark style="color:yellow;"><strong>Mở app ESign và chắc chắn bạn đang ở tab Tệp (File)</strong></mark></em></td></tr></tbody></table>
 
@@ -68,3 +68,7 @@ layout:
 <table data-full-width="false"><thead><tr><th align="center"></th></tr></thead><tbody><tr><td align="center"><em><mark style="color:yellow;"><strong>Bảng cài đặt hiện ra và bấm "Cài đặt" (Install) một lần nữa</strong></mark></em></td></tr></tbody></table>
 
 <figure><img src="../../../.gitbook/assets/IMG_0185 2.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

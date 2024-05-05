@@ -14,11 +14,15 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
-# 🔵 ESign
+# 🔵 Hướng dẫn sử dụng ESign
 
 * <mark style="color:yellow;">**ESign là gì?**</mark>
 
 > [**ESign**](https://esign.yyyue.xyz/) là ứng dụng giúp bạn _ký, tinh chỉnh_ **IPA** và cài đặt nó lên `iPhone/iPad` một cách dễ dàng không cần máy tính.
+
+{% content-ref url="nhap-chung-chi-esign.md" %}
+[nhap-chung-chi-esign.md](nhap-chung-chi-esign.md)
+{% endcontent-ref %}

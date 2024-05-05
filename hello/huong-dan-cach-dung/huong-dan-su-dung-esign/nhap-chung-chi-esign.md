@@ -14,7 +14,7 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
 # 🇻🇳 Nhập chứng chỉ ESign
@@ -96,3 +96,7 @@ layout:
 | _<mark style="color:yellow;">**Nếu chứng chỉ bạn vừa thêm xuất hiện tại đây thì là đã thành công**</mark>_ |
 
 <figure><img src="../../../.gitbook/assets/IMG_0176 2.PNG" alt="" width="375"><figcaption></figcaption></figure>
+
+{% content-ref url="cach-ky-va-cai-dat-.ipa-bang-esign.md" %}
+[cach-ky-va-cai-dat-.ipa-bang-esign.md](cach-ky-va-cai-dat-.ipa-bang-esign.md)
+{% endcontent-ref %}
