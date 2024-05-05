@@ -14,11 +14,15 @@ layout:
   outline:
     visible: true
   pagination:
-    visible: true
+    visible: false
 ---
 
-# 🟢 GBox
+# 🟢 Hướng dẫn sử dụng GBox
 
 * <mark style="color:yellow;">**GBox là gì?**</mark>
 
 > [**GBox**](https://gbox.run/) là ứng dụng giúp bạn _ký, tinh chỉnh_ **IPA** và cài đặt nó lên `iPhone/iPad` một cách dễ dàng không cần máy tính.
+
+{% content-ref url="cach-nhap-chung-chi-gbox.md" %}
+[cach-nhap-chung-chi-gbox.md](cach-nhap-chung-chi-gbox.md)
+{% endcontent-ref %}
