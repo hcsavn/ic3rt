@@ -23,6 +23,6 @@ layout:
 
 > [**ESign**](https://esign.yyyue.xyz/) là ứng dụng giúp bạn _ký, tinh chỉnh_ **IPA** và cài đặt nó lên `iPhone/iPad` một cách dễ dàng không cần máy tính.
 
-{% content-ref url="nhap-chung-chi-esign.md" %}
-[nhap-chung-chi-esign.md](nhap-chung-chi-esign.md)
+{% content-ref url="cach-nhap-chung-chi-esign.md" %}
+[cach-nhap-chung-chi-esign.md](cach-nhap-chung-chi-esign.md)
 {% endcontent-ref %}
