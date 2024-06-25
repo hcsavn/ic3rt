@@ -27,6 +27,6 @@ layout:
 [cach-nhap-chung-chi-esign.md](cach-nhap-chung-chi-esign.md)
 {% endcontent-ref %}
 
-{% content-ref url="cach-nhap-chung-chi-esign.md" %}
-[cach-nhap-chung-chi-esign.md](cach-nhap-chung-chi-esign.md)
+{% content-ref url="cach-ky-va-cai-dat-.ipa-bang-esign.md" %}
+[cach-ky-va-cai-dat-.ipa-bang-esign.md](cach-ky-va-cai-dat-.ipa-bang-esign.md)
 {% endcontent-ref %}
